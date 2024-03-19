@@ -48,8 +48,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- Email: [your.email@example.com](taha.usman.cll@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/taahaa-usman/)
-- GitHub: [Your GitHub Profile](https://github.com/TaahaaUsman)
+- Email: [Contact me](taha.usman.cll@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/taahaa-usman/)
+- GitHub: [My GitHub Profile](https://github.com/TaahaaUsman)
 
 Let's build something awesome together! 🚀👟 #ReactJS #WebDevelopment #NikeShoes #GitHub #OpenSource
