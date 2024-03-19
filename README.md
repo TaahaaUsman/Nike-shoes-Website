@@ -50,6 +50,6 @@ For any questions, feedback, or collaboration opportunities, feel free to reach 
 
 - Email: [your.email@example.com](taha.usman.cll@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/taahaa-usman/)
-- GitHub: [Your GitHub Profile]([https://github.com/TaahaaUsman])
+- GitHub: [Your GitHub Profile](https://github.com/TaahaaUsman)
 
 Let's build something awesome together! 🚀👟 #ReactJS #WebDevelopment #NikeShoes #GitHub #OpenSource
