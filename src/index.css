@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100vh;
+}
+
+.navigation{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 15px;
+}
+.components{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.components a{
+  text-decoration: none;
+  color: gray;
+  font-weight: 600;
+  font-size: 18px;
+}
+.components a:hover{
+  color: red;
+}
+.nav-button, #same, #category{
+  padding: 10px 30px;
+  background-color: red;
+  border: none;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 17px;
+}
+.nav-button:hover, #same:hover{
+  background-color: red;
+  opacity: 0.7;
+}
+/* From here the Home component style is started */
+.home-container{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px;
+  margin-left: 60px;
+}
+.main-img{
+  width: 1500px;
+}
+.heading-section h1{
+  line-height: normal;
+  font-size: 70px;
+  font-family: "Gill Sans", sans-serif;
+  margin-bottom: 20px;
+}
+.heading-section p{
+  font-size: 15px;
+  font-weight: 400;
+  color: gray;
+  margin-bottom: 20px;
+}
+#category{
+  background: transparent;
+  color: black;
+  border: 1px solid black;
+  margin-left: 20px;
+  padding: 9px 29px;
+  margin-bottom: 20px;
+}
+#category:hover{
+  color: gray;
+}
+.images-cotainer{
+  display: flex;
+}
+.images{
+  margin: 0px 15px;
+  cursor: pointer;
+}
+
+/* Footer component */
+li:hover{
+  color: red;
+  cursor: pointer;
+}
+.cart-image{
+  width: 30px;
+  color: white;
+}
