@@ -90,9 +90,9 @@ function Prices() {
                 </div>
               </div>
               <div class="-mt-4 w-full lg:-mt-0 lg:w-1/3">
-                <div class="pt-22 relative mx-auto max-w-sm rounded-lg bg-black px-10 pb-16 ">
+                <div class="pt-22 relative mx-auto max-w-sm rounded-lg bg-red-600 px-10 pb-16 ">
                   <div class="absolute left-1/2 top-0 inline-flex -translate-x-1/2 -translate-y-1/2 transform items-center justify-center rounded-full bg-white p-2">
-                    <div class="flex-shrink-0 rounded-full bg-black px-5 py-4 text-sm font-semibold uppercase text-white">
+                    <div class="flex-shrink-0 rounded-full bg-red-600 px-5 py-4 text-sm font-semibold uppercase text-white">
                       Most Popular
                     </div>
                   </div>

@@ -20,7 +20,7 @@ function Footer() {
               />
               <button
                 type="button"
-                class="ml-4 rounded-full bg-black px-3 py-3 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+                class="ml-4 rounded-full bg-red-600 px-3 py-3 text-sm font-semibold text-white shadow-sm hover:bg-red/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
